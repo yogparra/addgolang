@@ -4,7 +4,7 @@
 Repositorio destinado al aprendizaje de lenguaje go/golang, con una api
 ```
 
-# Ejemplos
+# Dependencia
 ```
 traer la libreria
 >go get -u github.com/gorilla/mux
